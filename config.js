@@ -4,6 +4,7 @@ export const generator = {
   outfile: './db/genrated_codes.txt',
 };
 
+
 export const checker = {
   interval: 50,
   updateRate: 1000,
